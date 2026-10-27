@@ -52,7 +52,7 @@ El mejor desempeño se obtuvo con la **Red Neuronal Feedforward** utilizando ing
 ---
 
 ## Dataset y Referencias
-- [BankSim — Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/ealaxi/banksim1))
-- [Fraud Detection Handbook]([https://www.fraud-detection-handbook.com/](https://fraud-detection-handbook.github.io/fraud-detection-handbook/))
+- [BankSim — Kaggle](https://www.kaggle.com/datasets/ealaxi/banksim1)
+- [Fraud Detection Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/)
 
 > **Nota:** Este proyecto utiliza datos sintéticos y sus resultados no representan una validación sobre transacciones bancarias reales.
