@@ -45,7 +45,7 @@ El mejor desempeño se obtuvo con la **Red Neuronal Feedforward** utilizando ing
 ---
 
 ## Instrucciones de Ejecución
-1. Clonar el repositorio e instalar las dependencias del proyecto.
+1. Instalar las dependencias del proyecto.
 2. Descargar el dataset **BankSim** y ubicarlo en la carpeta `Dataset/`.
 3. Abrir y ejecutar el notebook `Trabajo_final.ipynb`.
 
